@@ -1,22 +1,24 @@
 # Cryptarimetic-Solving
 Cryptarimetic solving with exhaustive search and write on java language.
 
-##Files
+## Files
 CryptarimeticMultiOP.java - for multi operators until you press '-1' to end of input and last operator will be a summation of other operator.
 CryptarimeticOP.java - for 2 operators and summation of operator.
 
-##Example
-CryptarimeticMultiOP.java
-- Puzzle
-          S E A L
-+       S N A I L
-+     M O N K E Y
-=   A N I M A L S
-
-CryptarimeticOP.java
-- Puzzle
-      S E N D
-+     M O R E
-=   M O N E Y
+## Example
+CryptarimeticMultiOP.java <br />
+Puzzle <br /><br />
+S E A L <br />
+S N A I L <br />
+M O N K E Y <br />
+------------- <br />
+A N I M A L S <br />
+<br />
+CryptarimeticOP.java <br />
+Puzzle <br /><br />
+S E N D <br />
+M O R E <br />
+--------- <br />
+M O N E Y <br />
 
 (Program will generate answer.)
