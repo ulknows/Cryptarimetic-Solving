@@ -1,8 +1,9 @@
 # Cryptarimetic-Solving
-Cryptarimetic solving with exhaustive search and write on java language.
+Cryptarimetic solving with exhaustive search and write on java language.<br />
+This program is a self-made experiment.
 
 ## Files
-CryptarimeticMultiOP.java - for multi operators until you press '-1' to end of input and last operator will be a summation of other operator.
+CryptarimeticMultiOP.java - for multi operators until you press '-1' to end of input and last operator will be a summation of other operator.<br />
 CryptarimeticOP.java - for 2 operators and summation of operator.
 
 ## Example
